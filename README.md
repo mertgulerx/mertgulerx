@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert Güler!</h1>
 <h3 align="center">A passionate Computer Engineering student from Turkey</h3>
 
-- 🔭 I’m currently working on **a Spring Project**
+- 🔭 I’m currently working on **multiple Spring Projects**
 
 - 💬 Ask me anything about **Java**
 
