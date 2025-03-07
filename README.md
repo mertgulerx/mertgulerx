@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert Güler!</h1>
-<h3 align="center">I'm a Computer Engineering student who is passionate about Java and Spring. I enjoy building backend systems, optimizing performance, and writing clean, maintainable code. Always eager to learn new technologies and improve my skills through innonative projects and real-life solutions</h3>
+<h3 align="center">I'm a Computer Engineering student who is passionate about programming, Java, C and Spring. I enjoy building backend systems, optimizing performance, and writing clean, maintainable code. Always eager to learn new technologies and improve my skills through innonative projects and real-life solutions</h3>
 
 - 🔭 I’m currently working on **multiple Spring Projects**
 
