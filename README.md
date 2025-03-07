@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **multiple Spring Projects**
 
-- 💬 Ask me anything about **Java, C**
+- 💬 Ask me anything about **Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
