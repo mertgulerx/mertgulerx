@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Computer Engineering student who is passionate about programming, C, Java and Spring. I enjoy building backend systems, optimizing performance, and writing clean, maintainable code. Always eager to learn new technologies and improve my skills through innonative projects and real-life solutions</h3>
 
 - 🔭 I’m currently working on **multiple Spring Projects**
-- - 🌱 I’m currently learning **Fullstack Development**
+- 🌱 I’m currently learning **Fullstack Development**
 - 💬 Ask me anything about **Java**
 
 <h3 align="left">Connect with me:</h3>
