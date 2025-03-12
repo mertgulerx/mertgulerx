@@ -15,5 +15,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertgulerx&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="mertgulerx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertgulerx&include_all_commits=true&show_icons=true&locale=en&theme=github_dark_dimmed" alt="mertgulerx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertgulerx&show_icons=true&locale=en&theme=github_dark_dimmed" alt="mertgulerx" /></p>
 
