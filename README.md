@@ -79,7 +79,10 @@
     "engineering_practices": [
       "Version Control - Git",
       "CI/CD",
-      "Agile: SCRUM, Kanban, Jira",
+      "Agile",
+      "SCRUM",
+      "Kanban",
+      "Jira",
       "System Analysis & Design"
     ]
   }
