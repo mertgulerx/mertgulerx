@@ -1,3 +1,6 @@
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
+
+
 <h1 align="center">It's a Me, Mario! :mushroom: :star2:</h1>
 <h3 align="center">
   <i>“An expert is a man who has made all the mistakes which can be made, in a very narrow field.”</i><br>
