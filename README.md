@@ -115,7 +115,7 @@
         "Aurora", "Wardruna", "Frank Sinatra"
       ],
       "favorite_composers": ["C418", "Jeremy Soule", "Jesse Hopkins"],
-      "theme": "Monokai Filter Spectrum"
+      "favorite_theme": "Monokai Filter Spectrum"
     }
   }
 }
