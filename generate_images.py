@@ -8,6 +8,8 @@ import aiohttp
 
 from github_stats import Stats
 
+# GET THE ABSOLUTE PATH OF THE SCRIPT'S DIRECTORY
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 ################################################################################
 # Helper Functions
@@ -17,8 +19,9 @@ def generate_output_folder() -> None:
     """
     Create the output folder if it does not already exist
     """
-    if not os.path.isdir("generated"):
-        os.mkdir("generated")
+    path = os.path.join(SCRIPT_DIR, "generated")
+    if not os.path.isdir(path):
+        os.mkdir(path)
 
 
 ################################################################################
@@ -30,7 +33,9 @@ async def generate_overview(s: Stats) -> None:
     Generate an SVG badge with summary statistics
     :param s: Represents user's GitHub statistics
     """
-    with open("templates/overview.svg", "r") as f:
+    # FIX: Use absolute path for template
+    template_path = os.path.join(SCRIPT_DIR, "templates", "overview.svg")
+    with open(template_path, "r") as f:
         output = f.read()
 
     output = re.sub("{{ name }}", await s.name, output)
@@ -44,7 +49,10 @@ async def generate_overview(s: Stats) -> None:
     output = re.sub("{{ repos }}", f"{len(await s.repos):,}", output)
 
     generate_output_folder()
-    with open("generated/overview.svg", "w") as f:
+    
+    # FIX: Use absolute path for output
+    output_path = os.path.join(SCRIPT_DIR, "generated", "overview.svg")
+    with open(output_path, "w") as f:
         f.write(output)
 
 
@@ -53,7 +61,9 @@ async def generate_languages(s: Stats) -> None:
     Generate an SVG badge with summary languages used
     :param s: Represents user's GitHub statistics
     """
-    with open("templates/languages.svg", "r") as f:
+    # FIX: Use absolute path for template
+    template_path = os.path.join(SCRIPT_DIR, "templates", "languages.svg")
+    with open(template_path, "r") as f:
         output = f.read()
 
     progress = ""
@@ -82,7 +92,10 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
     output = re.sub(r"{{ lang_list }}", lang_list, output)
 
     generate_output_folder()
-    with open("generated/languages.svg", "w") as f:
+    
+    # FIX: Use absolute path for output
+    output_path = os.path.join(SCRIPT_DIR, "generated", "languages.svg")
+    with open(output_path, "w") as f:
         f.write(output)
 
 
