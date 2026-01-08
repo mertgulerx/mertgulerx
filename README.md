@@ -156,11 +156,4 @@
 }
 ```
 
-<p float="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=mertgulerx&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" />
-</p>
-
-
-
-
 
