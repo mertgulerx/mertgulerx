@@ -123,7 +123,7 @@
 ```json
 {
   "extras": ["IntelliJ IDEA", "Xcode", "VS Code", "Figma", "Postman", "Docker", "Kubernetes", "Jenkins", "Lombok",
-             "Hibernate", "Spring Data JPA", "Spring JDBC", "MapStruct", "H2 Database", "Maven", "Gradle", "zsh" ]
+             "Hibernate", "Spring Data JPA", "Spring JDBC", "MapStruct", "H2 Database", "Maven", "Gradle", "zsh"]
 }
 ```
 
