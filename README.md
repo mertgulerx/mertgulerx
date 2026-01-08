@@ -1,4 +1,4 @@
-<h1 align="center">It's a Me, Mario!</h1>
+<h1 align="center">It's a Me, Mario! :mushroom: :star2:</h1>
 <h3 align="center">
   <i>“An expert is a man who has made all the mistakes which can be made, in a very narrow field.”</i><br>
   <small>— Niels Bohr</small>
