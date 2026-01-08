@@ -139,3 +139,6 @@
 </picture>
 
 ![](https://raw.githubusercontent.com/mertgulerx/mertgulerx/output-stats/overview.svg#gh-dark-mode-only)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
