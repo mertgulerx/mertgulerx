@@ -87,7 +87,6 @@
     ]
   }
 }
-
 ```
 
 ```json
@@ -110,49 +109,21 @@
       "favorite_trilogy": "The Lord of the Rings",
       "favorite_series": "Dark",
       "favorite_singers": [
-        "Eminem",
-        "Queen",
-        "Mavi Gri",
-        "Dolu Kadehi Ters Tut",
-        "The White Buffalo",
-        "Nena",
-        "Aurora",
-        "Wardruna",
-        "Frank Sinatra"
+        "Eminem", "Queen", "Mavi Gri",
+        "Dolu Kadehi Ters Tut", "The White Buffalo", "Nena",
+        "Aurora", "Wardruna", "Frank Sinatra"
       ],
-      "favorite_composers": [
-        "C418",
-        "Jeremy Soule",
-        "Jesse Hopkins"
-      ],
+      "favorite_composers": ["C418", "Jeremy Soule", "Jesse Hopkins"],
       "theme": "Monokai Filter Spectrum"
     }
   }
 }
-
 ```
 
 ```json
 {
-  "extras": [
-    "IntelliJ IDEA",
-    "Xcode",
-    "VS Code",
-    "Figma",
-    "Postman",
-    "Docker",
-    "Kubernetes",
-    "Jenkins",
-    "Hibernate",
-    "Lombok",
-    "Spring Data JPA",
-    "Spring JDBC",
-    "MapStruct",
-    "H2 Database",
-    "Maven",
-    "Gradle",
-    "zsh"
-  ]
+  "extras": ["IntelliJ IDEA", "Xcode", "VS Code", "Figma", "Postman", "Docker", "Kubernetes", "Jenkins", "Hibernate",
+             "Lombok", "Spring Data JPA", "Spring JDBC", "MapStruct", "H2 Database", "Maven", "Gradle", "zsh" ]
 }
 ```
 
