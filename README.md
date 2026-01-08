@@ -66,7 +66,8 @@
       "Verilog HDL",
       "REST API",
       "gRPC",
-      "Protobuf"
+      "Protobuf",
+      "Maven"
     ],
     "frontend_stack": [
       "React",
@@ -122,8 +123,8 @@
 
 ```json
 {
-  "extras": ["IntelliJ IDEA", "Xcode", "VS Code", "Figma", "Postman", "Docker", "Kubernetes", "Jenkins", "Lombok",
-             "Hibernate", "Spring Data JPA", "Spring JDBC", "MapStruct", "H2 Database", "Maven", "Gradle", "zsh"]
+  "extras": ["IntelliJ IDEA", "Xcode", "VS Code", "Figma", "Postman", "Docker", "Kubernetes", "Jenkins",
+             "Lombok", "Hibernate", "Spring Data JPA", "Spring JDBC", "MapStruct", "H2 Database", "Gradle"]
 }
 ```
 
