@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mertgulerx&theme=github_dark_dimmed&hide_border=false" width="51%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mertgulerx&theme=github_dark_dimmed&hide_border=false" width="51%" />
   <img src="https://github-readme-stats-fast.vercel.app/api?username=mertgulerx&show_icons=true&locale=en&theme=github_dark_dimmed" width="48%" />
 </p>
 <hr>
