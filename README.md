@@ -138,4 +138,4 @@
        src="https://raw.githubusercontent.com/mertgulerx/mertgulerx/output/github-snake-dark.svg">
 </picture>
 
-![](https://raw.githubusercontent.com/mertgulerx/mertgulerx/main/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mertgulerx/mertgulerx/output-stats/generated/overview.svg#gh-dark-mode-only)
