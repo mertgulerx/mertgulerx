@@ -141,4 +141,77 @@
 ![](https://raw.githubusercontent.com/mertgulerx/mertgulerx/output-stats/overview.svg#gh-dark-mode-only)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 39.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 60 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+🌆 Daytime                331 commits         █████████░░░░░░░░░░░░░░░░   35.63 % 
+🌃 Evening                400 commits         ███████████░░░░░░░░░░░░░░   43.06 % 
+🌙 Night                  101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   138 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Tuesday                  171 commits         █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+Wednesday                159 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Thursday                 209 commits         ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+Friday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Saturday                 105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Sunday                   81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Istanbul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     8 repos             ███████████░░░░░░░░░░░░░░   42.11 % 
+TypeScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+C                        4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/mertgulerx/mertgulerx/main/assets/bar_graph.png)
+
+
+ Last Updated on 08/01/2026 20:32:26 UTC
 <!--END_SECTION:waka-->
