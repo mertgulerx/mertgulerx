@@ -128,6 +128,11 @@
 }
 ```
 
-![Snake animation](https://github.com/mertgulerx/mertgulerx/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/mertgulerx/mertgulerx/output/github-snake-dark.svg">
+  <img alt="Snake animation"
+       src="https://raw.githubusercontent.com/mertgulerx/mertgulerx/output/github-snake-dark.svg">
+</picture>
 
 
