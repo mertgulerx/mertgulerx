@@ -44,7 +44,7 @@ jobs:
         EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
         EXCLUDE_FORKED_REPOS: true
 
-- name: Push to output-stats branch
+    - name: Push to output-stats branch
       uses: crazy-max/ghaction-github-pages@v3.1.0
       with:
         target_branch: output-stats  
