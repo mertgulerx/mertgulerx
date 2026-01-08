@@ -39,6 +39,7 @@
   <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="fedora" width="40" height="40"/></a>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/></a>
 </p>
+
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mertgulerx&theme=github_dark_dimmed&hide_border=false" />
   <img src="https://github-readme-stats-fast.vercel.app/api?username=mertgulerx&show_icons=true&locale=en&theme=github_dark_dimmed" />
