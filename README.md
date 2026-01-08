@@ -1,9 +1,116 @@
-<h1 align="center">Hi 👋,  I'm Mert Güler!</h1>
-<h3 align="center">I'm a Computer Engineering student who is passionate about programming, C, Java and Spring. I enjoy solving problems, optimizing performance, and writing clean, maintainable code. Always eager to learn new technologies and improve my skills through innonative projects and real-life solutions</h3>
+<h1 align="center">Mert Güler</h1>
+<h3 align="center">
+  <i>“An expert is a man who has made all the mistakes which can be made, in a very narrow field.”</i><br>
+  <small>— Niels Bohr</small>
+</h3>
 
-- 🔭 I’m currently working on **multiple Web Projects**
-- 🌱 I’m currently learning **Fullstack Development**
-- 💬 Ask me anything about **Java**
+```json
+{
+  "engineer": {
+    "name": "Mert Güler",
+    "environment": {
+      "primary_os": ["macOS", "Fedora Bluefin"],
+      "windows_policy": "TOLERATE_ONLY_FOR_GAMING",
+      "keyboard_layout": "US ANSI",
+      "shell": "zsh"
+    },
+    "main_stack": [
+      "Java",
+      "Spring Boot",
+      "C",
+      "C++",
+      "Python",
+      "Assembly: 80x86, RISC-V",
+      "Verilog HDL",
+      "REST API",
+      "gRPC",
+      "Protobuf"
+    ],
+    "frontend_stack": [
+      "React",
+      "Next.js",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "JavaFX"
+    ],
+    "engineering_practices": [
+      "Version Control - Git",
+      "CI/CD",
+      "Agile: SCRUM, Kanban, Jira",
+      "System Analysis & Design"
+    ]
+  }
+}
+
+```
+
+```json
+{
+  "personal": {
+    "education": {
+      "university": "Yıldız Technical University",
+      "department": "Computer Engineering"
+    },
+    "languages": {
+      "Turkish": "Native",
+      "English": "Native / Bilingual",
+      "Spanish": "Elementary",
+      "German": "Elementary"
+    },
+    "musical_instruments": [
+      "Kalimba"
+    ],
+    "preferences": {
+      "favorite_trilogy": "The Lord of the Rings",
+      "favorite_series": "Dark",
+      "favorite_singers": [
+        "Eminem",
+        "Queen",
+        "Mavi Gri",
+        "Dolu Kadehi Ters Tut",
+        "The White Buffalo",
+        "Nena",
+        "Aurora",
+        "Wardruna",
+        "Frank Sinatra"
+      ],
+      "favorite_composers": [
+        "C418",
+        "Jeremy Soule",
+        "Jesse Hopkins"
+      ],
+      "theme": "Monokai Filter Spectrum"
+    }
+  }
+}
+
+```
+
+```json
+{
+  "extras": [
+    "IntelliJ IDEA",
+    "Xcode",
+    "VS Code",
+    "Figma",
+    "Postman",
+    "Docker",
+    "Kubernetes",
+    "Jenkins",
+    "Hibernate",
+    "Lombok",
+    "Spring Data JPA",
+    "Spring JDBC",
+    "MapStruct",
+    "H2 Database",
+    "Maven",
+    "Gradle",
+    "zsh"
+  ]
+}
+```
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
