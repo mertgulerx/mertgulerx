@@ -141,7 +141,7 @@
 ![](https://raw.githubusercontent.com/mertgulerx/mertgulerx/output-stats/overview.svg#gh-dark-mode-only)
 <img align='right' src='https://i.pinimg.com/originals/66/11/f9/6611f91e4bff4c3c902fec3aafe87f41.gif' width='120'>
 <img align='right' src='https://i.pinimg.com/originals/6f/1f/30/6f1f308da0d735fdabee2e3711b28bd8.gif' width='150'>
-<img align='left' src='https://i.pinimg.com/originals/f3/ed/0f/f3ed0f291d4b7cdb7eb8af5a0530c5fc.gif' width='100'>
+<img align='left' src='https://github.com/user-attachments/assets/42733888-3e3c-45b9-abea-7c6ed5ee273a' width='100'>
 <img align='left' src='https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUydjExMGw4cDJueWR4ejNtbmN0dHgxMzBkejZ5OG43ZmNvdDJqb3hqdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IcoRHMTZpgomyiwfPw/giphy.gif' width='100'>
 
 <!---<img align='left' src='https://i.pinimg.com/originals/58/79/ec/5879ecf3e80a04ca4e8ea49975b43494.gif' width='120'>-->
