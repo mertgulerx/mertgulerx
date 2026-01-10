@@ -56,7 +56,7 @@
     "name": "Mert Güler",
     "environment": {
       "primary_os": ["macOS", "Fedora Bluefin"],
-      "windows_policy": "TOLERATE_ONLY_FOR_GAMING",
+      "windows_policy": "Only For Gaming",
       "keyboard_layout": "US ANSI",
       "shell": "zsh"
     },
