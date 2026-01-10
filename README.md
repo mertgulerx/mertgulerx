@@ -142,7 +142,7 @@
 <img align='right' src='https://i.pinimg.com/originals/66/11/f9/6611f91e4bff4c3c902fec3aafe87f41.gif' width='120'>
 <img align='right' src='https://i.pinimg.com/originals/6f/1f/30/6f1f308da0d735fdabee2e3711b28bd8.gif' width='150'>
 <img align='left' src='https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif' width='200'>
-<img align='left' src='https://i.pinimg.com/originals/58/79/ec/5879ecf3e80a04ca4e8ea49975b43494.gif' width='120'>
+<!---<img align='left' src='https://i.pinimg.com/originals/58/79/ec/5879ecf3e80a04ca4e8ea49975b43494.gif' width='120'>-->
 
 
 
