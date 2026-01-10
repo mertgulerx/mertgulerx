@@ -1,5 +1,4 @@
 <h1 align="center">It's a Me, Mario! :mushroom: :star2:</h1>
-<img align='right' src='https://i.pinimg.com/originals/12/4a/e6/124ae644c995f267669a338c654a252a.gif' width='100'>
 <h3 align="center">
   <i>“An expert is a man who has made all the mistakes which can be made, in a very narrow field.”</i><br>
   <small>— Niels Bohr</small>
@@ -132,6 +131,7 @@
 }
 ```
 
+<img align='right' src='https://i.pinimg.com/originals/12/4a/e6/124ae644c995f267669a338c654a252a.gif' width='100'>
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/mertgulerx/mertgulerx/output/github-snake-dark.svg">
@@ -140,3 +140,4 @@
 </picture>
 
 ![](https://raw.githubusercontent.com/mertgulerx/mertgulerx/output-stats/overview.svg#gh-dark-mode-only)
+
