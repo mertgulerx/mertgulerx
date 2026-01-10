@@ -66,6 +66,7 @@
       "C",
       "C++",
       "Python",
+      "PostgreSQL",
       "Assembly: 80x86, RISC-V",
       "Verilog HDL",
       "REST API",
