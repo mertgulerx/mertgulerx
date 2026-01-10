@@ -140,4 +140,6 @@
 
 ![](https://raw.githubusercontent.com/mertgulerx/mertgulerx/output-stats/overview.svg#gh-dark-mode-only)
 <img align='right' src='https://i.pinimg.com/originals/12/4a/e6/124ae644c995f267669a338c654a252a.gif' width='100'>
+<img align='right' src='https://i.pinimg.com/originals/e9/26/16/e9261611196ebd98b2d76ab0627699a0.gif' width='100'>
+
 
