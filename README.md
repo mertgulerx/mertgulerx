@@ -140,7 +140,7 @@
 
 ![](https://raw.githubusercontent.com/mertgulerx/mertgulerx/output-stats/overview.svg#gh-dark-mode-only)
 <img align='right' src='https://i.pinimg.com/originals/66/11/f9/6611f91e4bff4c3c902fec3aafe87f41.gif' width='110'>
-<img align='right' src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJyZGx0d3BrZjllaW1uM2J6dGp4bGQ2eDRocTE0NWVmN2NhanZwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lIUOO7WVTyKdDOzr1s/giphy.gif' width='160'>
+<img align='right' src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJyZGx0d3BrZjllaW1uM2J6dGp4bGQ2eDRocTE0NWVmN2NhanZwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lIUOO7WVTyKdDOzr1s/giphy.gif' width='155'>
 <img align='left' src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BndzNkeGZoOHM4bjB0aXBqeDFqZmRhMmtjcGFremFhY2NpNTgycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fwWjAcZ2Y23dAfmghb/giphy.gif' width='120'>
 <img align='left' src='https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUydjExMGw4cDJueWR4ejNtbmN0dHgxMzBkejZ5OG43ZmNvdDJqb3hqdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IcoRHMTZpgomyiwfPw/giphy.gif' width='100'>
 
