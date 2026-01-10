@@ -131,7 +131,6 @@
 }
 ```
 
-<img align='right' src='https://i.pinimg.com/originals/12/4a/e6/124ae644c995f267669a338c654a252a.gif' width='100'>
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/mertgulerx/mertgulerx/output/github-snake-dark.svg">
@@ -140,4 +139,5 @@
 </picture>
 
 ![](https://raw.githubusercontent.com/mertgulerx/mertgulerx/output-stats/overview.svg#gh-dark-mode-only)
+<img align='right' src='https://i.pinimg.com/originals/12/4a/e6/124ae644c995f267669a338c654a252a.gif' width='100'>
 
