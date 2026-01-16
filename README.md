@@ -86,8 +86,8 @@
       "Version Control - Git",
       "CI/CD",
       "Agile",
-      "SCRUM",
-      "Kanban",
+      "SCRUM (For eternal suffering)",
+      "Kanban (For life)",
       "Jira",
       "System Analysis & Design"
     ]
