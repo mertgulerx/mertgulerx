@@ -57,7 +57,7 @@
   "engineer": {
     "name": "Mert Güler",
     "environment": {
-      "primary_os": ["macOS", "Fedora Bluefin"],
+      "primary_os": ["Ubuntu LTS", "macOS", "Fedora Bluefin"],
       "windows_policy": "Only For Gaming",
       "keyboard_layout": "US ANSI",
       "shell": "zsh"
