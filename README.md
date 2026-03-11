@@ -77,9 +77,10 @@
       "Maven"
     ],
     "frontend_stack": [
+      "Astro",
       "React",
-      "Vite",
       "Next.js",
+      "Vite",
       "JavaFX"
     ],
     "engineering_practices": [
