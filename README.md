@@ -57,39 +57,26 @@
   "engineer": {
     "name": "Mert Güler",
     "environment": {
-      "primary_os": ["macOS", "Fedora Bluefin"],
-      "windows_policy": "Only For Gaming",
+      "primary_os": ["macOS", "Ubuntu"],
       "keyboard_layout": "US ANSI",
       "shell": "zsh"
     },
     "main_stack": [
       "Java",
-      "Spring Boot",
       "C",
       "C++",
-      "Python",
-      "PostgreSQL",
-      "Assembly: 80x86, RISC-V",
-      "Verilog HDL",
-      "REST API",
-      "gRPC",
-      "Protobuf",
-      "Maven"
+      "Python"
     ],
     "frontend_stack": [
       "Astro",
-      "React",
-      "Next.js",
-      "Vite",
-      "JavaFX"
+      "React"
     ],
     "engineering_practices": [
       "Version Control - Git",
       "CI/CD",
       "Agile",
       "SCRUM (For eternal suffering)",
-      "Kanban (For life)",
-      "Jira",
+      "Kanban (For a happy life)",
       "System Analysis & Design"
     ]
   }
@@ -101,27 +88,22 @@
   "personal": {
     "education": {
       "university": "Yıldız Technical University",
-      "department": "Computer Engineering"
+      "department": "Computer Engineering",
+      "class": "3"
     },
     "languages": {
       "Turkish": "Native",
-      "English": "Native / Bilingual",
-      "Spanish": "Elementary",
-      "German": "Elementary"
+      "English": "Advanced",
     },
     "musical_instruments": [
       "Kalimba"
     ],
     "preferences": {
-      "favorite_trilogy": "The Lord of the Rings",
       "favorite_series": "Dark",
-      "favorite_singers": [
-        "Eminem", "Queen", "Mavi Gri",
-        "Dolu Kadehi Ters Tut", "The White Buffalo", "Nena",
+      "favorite_singers_simplified": [
+        "Mavi Gri", "Yüzyüzeyken Konuşuruz", "Dolu Kadehi Ters Tut",  "The White Buffalo", "Nena",
         "Aurora", "Wardruna", "Frank Sinatra"
       ],
-      "favorite_composers": ["C418", "Jeremy Soule", "Jesse Hopkins"],
-      "favorite_theme": "Monokai Filter Spectrum"
     }
   }
 }
@@ -129,8 +111,7 @@
 
 ```json
 {
-  "extras": ["IntelliJ IDEA", "Xcode", "VS Code", "Figma", "Postman", "Docker", "Kubernetes", "Jenkins",
-             "Lombok", "Hibernate", "Spring Data JPA", "Spring JDBC", "MapStruct", "H2 Database", "Gradle"]
+  "extras": ["IntelliJ IDEA", "Xcode", "VS Code", "Postman", "Lombok", "Hibernate", "Spring Data JPA", "Spring JDBC", "MapStruct", "H2 Database", "Maven"]
 }
 ```
 
