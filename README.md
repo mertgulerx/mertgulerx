@@ -16,7 +16,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,spring,postgres,git,js,html,css,react,vite,nextjs,ros)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,spring,postgres,react,astro,vite,nextjs,ros)](https://skillicons.dev)
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mertgulerx&theme=github_dark_dimmed&hide_border=false" width="51%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mertgulerx&show_icons=true&locale=en&theme=github_dark_dimmed" width="48%" />
+</p>
+
 <hr>
 
 ```json
