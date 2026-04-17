@@ -10,12 +10,14 @@
 [![Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mertgulerx)
 
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,spring,postgres,react,astro,vite,nextjs,ros)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python)](https://skillicons.dev)
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
+
+[![My Skills](https://skillicons.dev/icons?i=spring,postgres,react,astro,vite,nextjs,ros)](https://skillicons.dev)
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mertgulerx&theme=github_dark_dimmed&hide_border=false" width="51%" />
