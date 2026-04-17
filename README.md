@@ -5,11 +5,11 @@
 </h3>
 <img align='right' src='https://github.com/user-attachments/assets/78648bb0-ab63-4f28-afab-5f1c00d026f0' width='100'>
 
-
 <h3 align="left">Connect with me:</h3>
 
 [![Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mertgulerx)
 [![website](https://raw.githubusercontent.com/mertgulerx/mertguler/main/assets/mertguler-icon-48.svg)](https://mertguler.net)
+
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 
