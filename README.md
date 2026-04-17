@@ -62,8 +62,8 @@
     "preferences": {
       "favorite_series": "Dark",
       "favorite_singers_simplified": [
-        "Mavi Gri", "Aurora", "Yüzyüzeyken Konuşuruz", "Dolu Kadehi Ters Tut",  "The White Buffalo", "Nena",
-        "Wardruna", "Frank Sinatra"
+        "Mavi Gri", "Aurora", "Yüzyüzeyken Konuşuruz", "Dolu Kadehi Ters Tut", 
+        "Nena", "The White Buffalo", "Wardruna", "Frank Sinatra"
       ],
     }
   }
