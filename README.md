@@ -47,8 +47,6 @@
       "Version Control - Git",
       "CI/CD",
       "Agile",
-      "SCRUM (For eternal suffering)",
-      "Kanban (For a happy life)",
       "System Analysis & Design"
     ]
   }
