@@ -1,6 +1,6 @@
 <h1 align="center">It's a Me, Mario! :mushroom: :star2:</h1>
 <h3 align="center">
-  <i>“An expert is a man who has made all the mistakes which can be made, in a very narrow field.”</i><br>
+  <i>“An expert is someone who has made all the mistakes which can be made, in a very narrow field.”</i><br>
   <small>— Niels Bohr</small>
 </h3>
 <img align='right' src='https://github.com/user-attachments/assets/78648bb0-ab63-4f28-afab-5f1c00d026f0' width='100'>
