@@ -39,10 +39,6 @@
       "C",
       "C++",
       "Python"
-    ],
-    "frontend_stack": [
-      "Astro",
-      "React"
     ]
   }
 }
