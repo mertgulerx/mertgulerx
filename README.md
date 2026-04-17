@@ -33,7 +33,7 @@
       "keyboard_layout": "US ANSI",
       "shell": "zsh"
     },
-    "main_stack": [
+    "programming_languages": [
       "Java",
       "C",
       "C++",
@@ -42,12 +42,6 @@
     "frontend_stack": [
       "Astro",
       "React"
-    ],
-    "engineering_practices": [
-      "Version Control - Git",
-      "CI/CD",
-      "Agile",
-      "System Analysis & Design"
     ]
   }
 }
@@ -79,11 +73,6 @@
 }
 ```
 
-```json
-{
-  "extras": ["IntelliJ IDEA", "Xcode", "VS Code", "Postman", "Lombok", "Hibernate", "Spring Data JPA", "Spring JDBC", "MapStruct", "H2 Database", "Maven"]
-}
-```
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
